@@ -1,5 +1,6 @@
 #include<conio.h>
 void main()
 {
-print("hello world");
+printf("hello world");
+  printf("good bye");
 {
